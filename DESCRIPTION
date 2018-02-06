@@ -1,0 +1,13 @@
+Package: bioequival
+Type: Package
+Title: Bioequivalence Intervals
+Version: 0.1.0
+Author: Alexandria Rhoads, alex@inspireenvironmental.com
+Maintainer: The package maintainer <alex@inspireenvironmental.com>
+Description: Calculate bio-inequivalence intervals for aRPD and Successional Stage
+    data. More description to follow. Inspire internal use only.
+Encoding: UTF-8
+LazyData: true
+Imports: testthat
+License: MIT + file LICENSE
+RoxygenNote: 6.0.1.9000
